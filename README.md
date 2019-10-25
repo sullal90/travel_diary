@@ -7,6 +7,11 @@
  
  ## Travel Diary
  
+ Technologies used so far:
+- HTML 
+- CSS
+- Bootstrap 4
+
  ![Main Page](img1.png) 
  
   
